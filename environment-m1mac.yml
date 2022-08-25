@@ -1,10 +1,11 @@
 name: ACD
 channels:
   - defaults
-dependencies:
-  - torchvision
-  - cudatoolkit=10.1
   - pytorch
+dependencies:
+  - pytorch
+  - torchvision
+  - torchaudio
   - pylint
   - pandas
   - seaborn
