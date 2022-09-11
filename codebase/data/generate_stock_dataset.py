@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
-import pdblp
+import pdblp # TODO - Install blpapi
 
 import os
 import time
