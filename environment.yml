@@ -9,3 +9,5 @@ dependencies:
   - pandas
   - seaborn
   - scikit-learn
+  - pdblp
+  - tqdm
